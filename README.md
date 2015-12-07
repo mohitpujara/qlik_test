@@ -1,7 +1,7 @@
 # qlik_test
 # REST API integration with AWS
 
-1. Exposes a simple REST API that allows users to:
+* **Exposes a simple REST API that allows users to:**
 
 	a. Allows users to submit/post messages:
 	
@@ -30,7 +30,7 @@
 	
 	Parameter = message(Required) -> integer -> ID -> return 200 status code on success
 	
-2. Creating the Application:
+* **Creating the Application:**
 
 	This REST API application contains..
 	
@@ -46,8 +46,8 @@
 	
 	In "controller" folder there is one file name "messages.php". This file contains model structure of GET, PUT and DELETE. In all models I'm fetching data from database and maintained error code if I found any errors.
 
-	
-3. REST API Documentation:
+
+* **REST API Documentation:**
 
 	Method			Description
 	
@@ -57,7 +57,7 @@
 
 	DELETE			A DELETE method (or DELETE request) is used to delete a specific message using ID by a URL.
 	
-4. Sequence Diagram:
+* **Sequence Diagram:**
 
 	![My image](api/sequence_diagrams/GET.png "GET Request")
 	
@@ -65,7 +65,8 @@
 	
 	![My image](api/sequence_diagrams/DELETE.png "DELETE Request")
 
-5. Amazon AWS Information:
+
+* **Amazon AWS Information:**
 
 	Application IP: 52.25.79.15
 	
