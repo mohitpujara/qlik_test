@@ -59,6 +59,8 @@
 	
 4. Sequence Diagram:
 
+	![alt tag](qlik_test/api/sequence_diagrams/DELETE.png "GET Request")
+
 5. Amazon AWS Information:
 
 	Application IP: 52.25.79.15
