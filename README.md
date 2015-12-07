@@ -14,7 +14,7 @@
 	
 	Method = GET, URL = /api/index.php/messages
 	
-	Parameter = message(Required) -> integer -> ID -> return 200 status code on success
+	Parameter = message(Required) -> return 200 status code on success and shows list of messages
 	
 	
 	c. Retrieves a specific message on demand, and determines if it is a palindrome:
