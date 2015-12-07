@@ -14,21 +14,21 @@
 	
 	Method = GET, URL = /api/index.php/messages
 	
-	Parameter -> return 200 status code on success and shows list of messages
+	return 200 status code on success and shows list of messages
 	
 	
 	c. Retrieves a specific message on demand, and determines if it is a palindrome:
 	
 	Method = GET, URL = /api/index.php/messages/{MSG_ID}
 	
-	Parameter -> integer -> MSG_ID -> return 200 status code on success
+	Parameter -> MSG_ID -> integer -> return 200 status code on success
 	
 	
 	d. Allows users to delete specific messages
 	
 	Method = DELETE, URL = /api/index.php/messages/{MSG_ID}
 	
-	Parameter  -> integer -> MSG_ID -> return 200 status code on success
+	Parameter  -> MSG_ID -> integer -> return 200 status code on success
 	
 * **Creating the Application:**
 
