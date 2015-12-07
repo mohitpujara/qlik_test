@@ -49,13 +49,13 @@
 
 * **REST API Documentation:**
 
-	Method			Description
+	Method				Description
 	
 	GET				A GET method (or GET request) is used to retrieve messages and/or retrieve a specific message on demand by using ID and determines if it is a palindrome or not. It should be used SOLELY for retrieving data and should not alter.
 
-	POST			A POST method (or POST request) is used to create a message. For instance, when you want to add a new message but have no idea where to store it, you can use the POST method to post it to a URL and let the server decide the URL.
+	POST				A POST method (or POST request) is used to create a message. For instance, when you want to add a new message but have no idea where to store it, you can use the POST method to post it to a URL and let the server decide the URL.
 
-	DELETE			A DELETE method (or DELETE request) is used to delete a specific message using ID by a URL.
+	DELETE				A DELETE method (or DELETE request) is used to delete a specific message using ID by a URL.
 	
 * **Sequence Diagram:**
 
