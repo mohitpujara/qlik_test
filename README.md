@@ -59,7 +59,7 @@
 	
 4. Sequence Diagram:
 
-	(https://github.com/mohitpujara/qlik_test/api/sequence_diagrams/DELETE.png "GET Request")
+	![My image](https://github.com/mohitpujara/qlik_test/api/sequence_diagrams/DELETE.png "GET Request")
 
 5. Amazon AWS Information:
 
