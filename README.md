@@ -5,7 +5,7 @@
 
 	a. Allows users to submit/post messages:
 	
-	Method = POST, URL = /api/index.php/messages
+	Method = POST, URL = /api
 	
 	Parameter = message(Required) -> string -> message data -> return 201 status code on success
 
