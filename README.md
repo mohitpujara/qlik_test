@@ -59,13 +59,10 @@
 	
 4. Sequence Diagram:
 
-	GET Request:
 	![My image](api/sequence_diagrams/GET.png "GET Request")
 	
-	POST Request:
 	![My image](api/sequence_diagrams/POST.png "POST Request")
 	
-	DELETE Request:
 	![My image](api/sequence_diagrams/DELETE.png "DELETE Request")
 
 5. Amazon AWS Information:
